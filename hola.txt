@@ -2,5 +2,9 @@ algo
 hola
 hola
 como
+no
+se
+mi
+nombre
 te
 llamas
